@@ -1,0 +1,22 @@
+{
+  "name": "tdd-empty",
+  "version": "1.0.0",
+  "description": "tdd-empty",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missKatiaPunter/tdd-empty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missKatiaPunter/tdd-empty/issues"
+  },
+  "homepage": "https://github.com/missKatiaPunter/tdd-empty#readme",
+  "dependencies": {
+    "jest": "^27.4.4"
+  }
+}
